@@ -1,0 +1,101 @@
+#bigBox{
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    border: 2px solid black;
+}
+
+#box1{
+    left: 1.5%;
+    top: 1.5%;
+    margin: auto;
+    width: 30%;
+    height: 30%;
+    border: 1px solid black;
+    position: absolute;
+}
+
+#box2{
+    left: 34.5%;
+    top: 1.5%;
+    margin: auto;
+    width: 30%;
+    height: 30%;
+    border: 1px solid black;
+    position: absolute;
+}
+
+#box3{
+    right: 1.5%;
+    top: 1.5%;
+    margin: auto;
+    width: 30%;
+    height: 30%;
+    border: 1px solid black;
+    position: absolute;
+}
+
+#box4{
+    left: 1.5%;
+    top: 34.5%;
+    margin: auto;
+    width: 30%;
+    height: 30%;
+    border: 1px solid black;
+    position: absolute;
+}
+
+#box5{
+    left: 34.5%;
+    top: 34.5%;
+    margin: auto;
+    width: 30%;
+    height: 30%;
+    border: 1px solid black;
+    position: absolute;
+}
+
+#box6{
+    right: 1.5%;
+    top: 34.5%;
+    margin: auto;
+    width: 30%;
+    height: 30%;
+    border: 1px solid black;
+    position: absolute;
+}
+
+#box7{
+    left: 1.5%;
+    bottom: 1.5%;
+    margin: auto;
+    width: 30%;
+    height: 30%;
+    border: 1px solid black;
+    position: absolute;
+}
+
+#box8{
+    left: 34.5%;
+    bottom: 1.5%;
+    margin: auto;
+    width: 30%;
+    height: 30%;
+    position: absolute;
+    border: 1px solid black;
+}
+
+#box9{
+    right: 1.5%;
+    bottom: 1.5%;
+    margin: auto;
+    width: 30%;
+    height: 30%;
+    position: absolute;
+    border: 1px solid black;
+}
