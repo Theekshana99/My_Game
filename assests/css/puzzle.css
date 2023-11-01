@@ -1,0 +1,100 @@
+#window{
+    left: 0;
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    background-color: black;
+}
+#name{
+    left: 40%;
+    /*right: 0;*/
+    margin: auto;
+    position: absolute;
+    font-size: 400%;
+    color: #40ffe2;
+}
+.boxes{
+    margin: auto;
+    width: 30%;
+    height: 30%;
+    border: 1px solid white;
+    position: absolute;
+    background-color: black;
+}
+
+#bigBox{
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    border: 2px solid white;
+    background-color: #045F5F;
+}
+
+#box1{
+    left: 2%;
+    top: 2%;
+}
+
+#box2{
+    left: 35%;
+    top: 2%;
+}
+
+#box3{
+    right: 2%;
+    top: 2%;
+}
+
+#box4{
+    left: 2%;
+    top: 35%;
+}
+
+#box5{
+    left: 35%;
+    top: 35%;
+}
+
+#box6{
+    right: 2%;
+    top: 35%;
+}
+
+#box7{
+    left: 2%;
+    bottom: 2%;
+}
+
+#box8{
+    left: 35%;
+    bottom: 2%;
+}
+
+#box9{
+    right: 2%;
+    bottom: 2%;
+}
+
+#btnRestart{
+    width: 200px;
+    height: 60px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 5%;
+    background-color: lawngreen;
+    border-radius: 50px;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: auto;
+    cursor: pointer;
+}
