@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0aeccf5b-a37c-482b-9741-f9523c418f72" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assests/css/puzzle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assests/images/00.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assests/images/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assests/images/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assests/images/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assests/images/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assests/images/12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assests/images/20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assests/images/21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assests/images/22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assests/images/logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assests/css/Box9.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assests/css/puzzle.css" beforeDir="false" afterPath="$PROJECT_DIR$/assests/css/puzzle.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,11 +44,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../My-Game" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assests/images" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\sanu\AAD\My_Game\assests\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="H:\sanu\AAD\My_Game\assests\images" />
       <recent name="H:\sanu\AAD\My_Game" />
@@ -86,7 +80,7 @@
       <updated>1696668645905</updated>
       <workItem from="1696668766147" duration="15513000" />
       <workItem from="1698662093322" duration="9000" />
-      <workItem from="1698817907270" duration="3341000" />
+      <workItem from="1698817907270" duration="4752000" />
     </task>
     <servers />
   </component>
